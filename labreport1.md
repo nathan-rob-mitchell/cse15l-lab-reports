@@ -3,7 +3,7 @@
 1. Command `cd`
    - No arguments
 
-![Image](CSE15L LAB1 EX 1.1.png)
+![Image](CSE15L LAB1 EX1.1.png)
   
    - Path to a directory as an argument
 
