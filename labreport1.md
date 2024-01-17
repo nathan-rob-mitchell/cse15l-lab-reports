@@ -47,7 +47,7 @@ Directory before running: `/home/lecture1`
 Directory after running: `/home/lecture1`
 
 By running the command `ls` with no arguments while in the directory `/home/lecture1`, we get the output:
-`Hello.class Hello.java **messages** README`
+`Hello.class Hello.java messages README`
 This output indicates the command executed successfully and that there was no error. This output lists all of the files and folders in in the current path.
 Beacause the current directory is `/home/lecture1`, the command `ls` prints this output because all of these things are withing the `lecture1` folder.
   
