@@ -90,7 +90,7 @@ Example 1 of `/add-message`:
 
 - As for the values of relevant fields, there are also various in Example 1:
   1. `url` changes form the original link `https://0-0-0-0-4050-5ol43auln2lm98699fsnnld814.us.edusercontent.com/` to the link with the added arguments, 
-     now `https://0-0-0-0-4050-5ol43auln2lm98699fsnnld814.us.edusercontent.com/add-message?s=FINS%20UP!&user=mikeMcD'. 
+     now `https://0-0-0-0-4050-5ol43auln2lm98699fsnnld814.us.edusercontent.com/add-message?s=FINS%20UP!&user=mikeMcD`. 
   2. The string array parameters in this instance contains the elements `[s=FINS UP!]` and `[user=mikeMcD]`
   3. The string `message` is first set to `s=FINS UP!`, but then is set to be the substring `FINS UP!`.
   4. The string `user` is first set to be `user=mikeMcD`, but then is set to be the substring `mikeMcD`.
@@ -136,7 +136,7 @@ Example 2 of `/add-message`:
 
 - As for the values of relevant fields, there are also various in Example 2:
   1. `url` changes form the original link `https://0-0-0-0-4050-5ol43auln2lm98699fsnnld814.us.edusercontent.com/` to the link with the added arguments,
-      now `https://0-0-0-0-4050-5ol43auln2lm98699fsnnld814.us.edusercontent.com/add-message?s=I%27m%20literally%20the%20best&user=tyreek10'. 
+      now `https://0-0-0-0-4050-5ol43auln2lm98699fsnnld814.us.edusercontent.com/add-message?s=I%27m%20literally%20the%20best&user=tyreek10`. 
   2. The string array parameters in this instance contains the elements `[s=I'm literally the best]` and `[user=tyreek10]`
   3. The string `message` is first set to `s=I'm literally the best`, but then is set to be the substring `I'm literally the best`.
   4. The string `user` is first set to be `user=tyreek10`, but then is set to be the substring `tyreek10`.
