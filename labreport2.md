@@ -149,8 +149,9 @@ Example 2 of `/add-message`:
 - `ls` showing absolute paths for private and public keys
 
   ![Image](CSE15L LAB2 EX1.3.png)
+  ![Image](CSE15L LAB2 EX1.6.png)
 
-  The absolute path for the public key is `/c/Users/Nathan/.ssh/id_ed25519.pub`
+  The absolute path for the public key is `/~/.ssh/authorized_keys` or `/home/linux/ieng6/oce/24/nrmitchell/.ssh/authorized_keys`
   The absolute path for the private key is `/c/Users/Nathan/.ssh/id_ed25519`
 
 - Terminal interaction: login without being asked for password
