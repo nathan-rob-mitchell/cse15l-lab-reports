@@ -79,7 +79,7 @@
      returns the total number of lines that contain the string, which can be useful for narrowing the search for certain terms or files and
      can give a sense about how relevant the text in those files are to the term given the number that is returned.
 
-     Source: [Link](https://www.geeksforgeeks.org/grep-command-in-unixlinux/)
+     Source: [grep command in Unix/Linux](https://www.geeksforgeeks.org/grep-command-in-unixlinux/)
      
 
 2. Command `grep -i`
@@ -208,7 +208,7 @@
      This command is useful because when looking for a particular regular expression, being able to search for out without having to worry about errors
      or differences in the spelling related to lower and upper case makes the search and finding of results much easier.
 
-     Source: [Link](https://www.geeksforgeeks.org/grep-command-in-unixlinux/)
+     Source: [grep command in Unix/Linux](https://www.geeksforgeeks.org/grep-command-in-unixlinux/)
 
 3. Command `grep -n`
    - Example 1
@@ -245,7 +245,7 @@
      within a file. This is especially useful becasue not only does it provide the full lines, but makes them all much easier to locate because it gives the mathcing
      line number right next to each line. It makes things much easier to read and find.
 
-     Source: [Link](https://www.geeksforgeeks.org/grep-command-in-unixlinux/)
+     Source: [grep command in Unix/Linux](https://www.geeksforgeeks.org/grep-command-in-unixlinux/)
 
 4. Command `grep -l`
    - Example 1
@@ -289,4 +289,4 @@
      it provides an instant way to know all of the files that contain the given expression, and provides a fast way to know which
      files are useful/relevant to your search.
 
-     Source: [Link](https://www.geeksforgeeks.org/grep-command-in-unixlinux/)
+     Source: [grep command in Unix/Linux](https://www.geeksforgeeks.org/grep-command-in-unixlinux/)
