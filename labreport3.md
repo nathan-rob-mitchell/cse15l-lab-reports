@@ -207,6 +207,7 @@
      The command `grep -i` enables us to search the a file/files for a given string regular expression insensitively to cases (upper and lower case).
      This command is useful because when looking for a particular regular expression, being able to search for out without having to worry about errors
      or differences in the spelling related to lower and upper case makes the search and finding of results much easier.
+
      Source: [Link](https://www.geeksforgeeks.org/grep-command-in-unixlinux/)
 
 3. Command `grep -n`
@@ -243,6 +244,7 @@
      each of their respective lines. That is, this command returns each of the line numbers and the full lines that contain the given regular expression
      within a file. This is especially useful becasue not only does it provide the full lines, but makes them all much easier to locate because it gives the mathcing
      line number right next to each line. It makes things much easier to read and find.
+
      Source: [Link](https://www.geeksforgeeks.org/grep-command-in-unixlinux/)
 
 4. Command `grep -l`
@@ -286,4 +288,5 @@
      The command `grep -l` outputs the names of all the files that contain the given regular expression string. This is useful because
      it provides an instant way to know all of the files that contain the given expression, and provides a fast way to know which
      files are useful/relevant to your search.
+
      Source: [Link](https://www.geeksforgeeks.org/grep-command-in-unixlinux/)
