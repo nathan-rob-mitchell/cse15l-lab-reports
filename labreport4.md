@@ -26,7 +26,7 @@
                   `/index1 <enter><shift + N><e><x><i> 2 <esc> :wq <enter>`
   - I used the `vim` command to make the edit in `ListExamples.java`. Once in `vim`, I used `/index1` in order to search
     for the phrase `index1` in order to quickly locate all places where the phrase `index1` exists in the file. Then I used
-    `shift + N` to go to the last `index1` phrase in the file, where we need to change `index1` to index2`. Then I used `e` to
+    `shift + N` to go to the last `index1` phrase in the file, where we need to change `index1` to `index2`. Then I used `e` to
     go to the end of that last phrase `index1`, placing the cursor at the `1` character. Then I pressed `x` in order to remove
     the `1` at the end of `index1`, and then `i` in order to go into Insert Mode, and then I pressed `2`, changing `index1` to
     `index2`. The I pressed `<esc>` to return to Normal Mode, and then saved the changes and quit vim using `:wq <enter>`.
