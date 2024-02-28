@@ -9,7 +9,7 @@
 ## Step 5: Clone fork of the repository from Github (using ssh)
   - Keys pressed: `git <space> clone <space><Ctrl + V><enter>`
   - I typed out the command `git clone` and then pasted the SSH link `git@github.com:nathan-rob-mitchell/cse15L-lab7.git`
-    into the commmand line, then I pressed `<enter>` to run the command.
+    into the command line, then I pressed `<enter>` to run the command.
 
     ![Image](CSE15L LAB4 EX 2.1.png)
 
