@@ -14,7 +14,9 @@
     ![Image](CSE15L LAB4 EX 2.1.png)
 
 ## Step 6: Run the tests, demonstrating they fail
-  - Keys pressed: `<Ctrl + V><enter><Ctrl + V><space> ListExamplesTests <enter>`
+  - Keys pressed:
+      - `<Ctrl + V><enter>`
+      - `<Ctrl + V><space> ListExamplesTests <enter>`
   - I copied and pasted the command `javac -cp .:lib/hamcrest-core-1.3.jar:lib/junit-4.13.2.jar *.java` and then pressed `<enter>`
     and then copied and pasted the command `cse15L-lab7:326$ java -cp .:lib/hamcrest-core-1.3.jar:lib/junit-4.13.2.jar org.junit.runner.JUnitCore`
     to which I added `ListExamplesTests` in order to run the tests in `ListExamplesTests.java`.
